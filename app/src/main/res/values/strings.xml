@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Card Swipe Deck</string>
+
+    <string name="dayalbagh_title">Dayalbag Temple</string>
+    <string name="dayalbagh_desc">It is a self-sustained colony, where its inhabitants lead an active, disciplined and co-operative community life, conforming to the spiritual ideals of their faith.</string>
+
+    <string name="tajmahal_title">Taj Mahal</string>
+    <string name="tajmahal_desc">The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.</string>
+    <string name="agrafort_title">Agra Fort</string>
+    <string name="agrafort_desc">Brief History Agra Fort is a UNESCO World Heritage site located in Agra, India. The fort is also known as Lal Qila, Fort Rouge and Red Fort of Agra.</string>
+
+    <string name="fatehpursikri_title">Fatehpur Sikri</string>
+    <string name="fatehpursikri_desc">Fatehpur Sikri is a small city in northern India, just west of Agra, founded by a 16th-century Mughal emperor.</string>
+
+    <string name="sikendra_title">Sikendra</string>
+    <string name="sikendra_desc">Akbar\'s tomb is the tomb of the Mughal emperor, Akbar and an important Mughal architectural masterpiece. It was built in 1605–1613.</string>
+    <string name="refresh">Refresh</string>
+</resources>
